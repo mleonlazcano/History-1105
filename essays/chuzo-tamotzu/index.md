@@ -23,7 +23,6 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   image-path="images/newspaper-1.png"
   image-position="right"
   image-width="48%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
 %}
 
 {% include images/figure-wrap.html
