@@ -29,7 +29,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
   image-path="images/newspaper-2.png"
   image-position="right"
   image-width="48%"
-  caption="The TIME Magazine promotes the art exchange between kids in Santa Fe and Hiroshima.[Source: TIME Magazine, May 11, 1953]()"
+  caption="The TIME Magazine promotes the art exchange between kids in Santa Fe and Hiroshima. [Source: TIME Magazine, May 11, 1953]()"
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
