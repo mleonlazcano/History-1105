@@ -21,7 +21,7 @@ Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT)
 
 {% include images/figure-wrap.html
   image-path="images/newspaper-1.png"
-  image-position="right"
+  image-position="middle"
   image-width="48%"
 %}
 
