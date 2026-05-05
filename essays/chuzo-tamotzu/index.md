@@ -18,7 +18,7 @@ The 1953 art exchange between Hiroshima and Santa Fe was newsworthy because it r
 At a time when anti-Japanese sentiment was still strong in the United States, Tamotzu’s project challenged dominant narratives by promoting empathy and understanding. Newspaper sources and later exhibitions show that this exchange gained attention not only for its artistic value, but for its message of peace. By framing the exchange as a collaborative effort between children, the media presented it as a hopeful alternative to the conflict that had defined the previous decade. This made the event both emotionally compelling and politically meaningful.
 [^youchoose] 
 
-[^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
+[^youchoose]:TIME Magazine, *Through the Eyes of Children* (TIME Inc.:1953), 78.
 
 
 {% include images/figure-wrap.html
