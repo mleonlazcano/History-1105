@@ -40,9 +40,11 @@ You may divide your text by inserting a pull from a primary or secondary source 
 
 [^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
-## Subheader 2
+## Connection to AAPI History
 
-Here's why this event relates to Asian American and Pacific Islander (AAPI) history: Insert your text that explains how this specific event relates to to the history of the ethnic group AND AAPI history. 100-150 words 
+This event is important to AAPI history because it reflects how Japanese Americans navigated identity and belonging after World War II. During the war, Japanese Americans faced discrimination, incarceration, and pressure to prove their loyalty, as seen in sources like the “Declaration by Japanese-American Artists” (1941). Tamotzu’s later work shows a shift from survival to rebuilding identity and community.
+By organizing the art exchange, Tamotzu used his position as both a Japanese-born and American-based artist to bridge cultural divides. This reflects a broader pattern in AAPI history, where individuals created transnational connections despite exclusion and racism. His work demonstrates how AAPI communities contributed not only to local culture, but also to global efforts toward reconciliation and peace.
+
 
 {% capture Removal_Chinese_text %}
 The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
