@@ -11,9 +11,12 @@ summary: Viewing the relationship of art within Santa Fe and Postwar Hiroshima
 
 In 1953, Japanese American artist Chuzo Tamotzu organized an art exchange between schoolchildren in Hiroshima, Japan and Santa Fe, New Mexico. This event took place less than a decade after World War II, during a time of global tension and rebuilding. Tamotzu, who had lived in Japan and the United States and later settled in Santa Fe, used art as a way to connect communities affected by war. This project is significant because it shows how AAPI individuals in New Mexico were not isolated, but actively shaping global conversations about peace and identity. I argue that Tamotzu’s work demonstrates how AANHPI communities in New Mexico played an important role in postwar reconciliation, using cultural exchange to challenge division and create new forms of belonging.
 
-## Subheader 1
+## Why This Event Was Newsworthy
 
-150-200 words:  Explain why this event was newsworthy, drawing upon specific language or descriptions in the primary sources as citing any secondary sources to support your interpretation about why this event was newsworthy at the time it took place.[^youchoose] 
+The 1953 art exchange between Hiroshima and Santa Fe was newsworthy because it represented a rare moment of cultural connection between former enemies shortly after World War II. A Time magazine article, “Through the Eyes of Children,” highlighted how children’s drawings could communicate hope and resilience despite the devastation of the atomic bomb. The use of children’s artwork made the story especially powerful, as it emphasized innocence and the possibility of rebuilding relationships through creativity rather than politics.
+
+At a time when anti-Japanese sentiment was still strong in the United States, Tamotzu’s project challenged dominant narratives by promoting empathy and understanding. Newspaper sources and later exhibitions show that this exchange gained attention not only for its artistic value, but for its message of peace. By framing the exchange as a collaborative effort between children, the media presented it as a hopeful alternative to the conflict that had defined the previous decade. This made the event both emotionally compelling and politically meaningful.
+[^youchoose] 
 
 [^youchoose]:Author-first-name Author-last-name, *Title-in-italics* (Publisher:Year), page-number.
 
