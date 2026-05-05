@@ -59,9 +59,11 @@ The coding for this section positions this text in relation to the image. *The L
   text=Removal_Chinese_text 
 %}
 
-## Subheader 3 
+## Connection to New Mexico History 
 
-Use this section to explain how this event relates to New Mexico history. What does this event tell us about New Mexico (or the specific city) in relation to other territories, states, or local communities? 
+This event also highlights New Mexico’s role as a unique cultural and artistic space that attracted diverse communities, including AAPI individuals. After moving to Santa Fe in 1948, Tamotzu became part of the city’s growing art scene, which was known for its openness to different cultural influences. Local newspaper sources show that he was recognized as an important figure in the community and contributed to its artistic identity.
+
+The art exchange reveals that New Mexico was not isolated, but connected to global events and cultural movements. Santa Fe served as a site where international dialogue could take place, even in the aftermath of war. This challenges the idea of New Mexico as peripheral and instead positions it as a place where cross-cultural exchange and innovation occurred.
 
 {% include images/figure-wrap.html
   image-path="images/Chinese_leave_Raton.jpg"
