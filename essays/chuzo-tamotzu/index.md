@@ -79,8 +79,8 @@ The art exchange reveals that New Mexico was not isolated, but connected to glob
 
 If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
-## Concluding Subheader 4:
+## Conclusion
 
-Insert your text here.  Why is this event historically signficant?  What does it teach us? What further research questions does it raise? 
+IThe Hiroshima-Santa Fe art exchange is historically significant because it shows how art can serve as a tool for healing, connection, and identity formation. Chuzo Tamotzu’s work demonstrates that AAPI individuals in New Mexico were active participants in shaping both local and global histories. This event teaches us that reconciliation is not only achieved through political agreements, but also through cultural and human connections.
 
-**Further information:** You may highlight key sources that provide more information for readers. This is where you also may provide links to other websites that relate to the topic. Be sure to explain why these links might be of interest to the reader in relation to your topic. 
+This project also raises further questions about how other AAPI communities in New Mexico contributed to the state’s history and how their stories have been remembered or overlooked. Future research could explore similar examples of cross-cultural exchange or examine how AAPI artists continue to shape New Mexico’s cultural landscape today.
