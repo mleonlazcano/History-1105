@@ -9,8 +9,7 @@ summary: Viewing the relationship of art within Santa Fe and Postwar Hiroshima
 
 # Chuzo Tamotzu, Postwar Hiroshima, & Santa Fe
 
-Introduce the reader to the key events, issues, and actors (WHEN WHERE WHO WHAT) that inform your research project. Try to use accessible language that a high schooler would understand. STATE YOUR ARGUMENT ABOUT THIS EVENT/PERSON/ISSUE being significant for AAPI and New Mexico History. Remember that you will connect all the remaining web page content to this argument.  
-100-150 words
+In 1953, Japanese American artist Chuzo Tamotzu organized an art exchange between schoolchildren in Hiroshima, Japan and Santa Fe, New Mexico. This event took place less than a decade after World War II, during a time of global tension and rebuilding. Tamotzu, who had lived in Japan and the United States and later settled in Santa Fe, used art as a way to connect communities affected by war. This project is significant because it shows how AAPI individuals in New Mexico were not isolated, but actively shaping global conversations about peace and identity. I argue that Tamotzu’s work demonstrates how AANHPI communities in New Mexico played an important role in postwar reconciliation, using cultural exchange to challenge division and create new forms of belonging.
 
 ## Subheader 1
 
