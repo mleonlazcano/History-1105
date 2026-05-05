@@ -43,6 +43,7 @@ You may divide your text by inserting a pull from a primary or secondary source 
 ## Connection to AAPI History
 
 This event is important to AAPI history because it reflects how Japanese Americans navigated identity and belonging after World War II. During the war, Japanese Americans faced discrimination, incarceration, and pressure to prove their loyalty, as seen in sources like the “Declaration by Japanese-American Artists” (1941). Tamotzu’s later work shows a shift from survival to rebuilding identity and community.
+
 By organizing the art exchange, Tamotzu used his position as both a Japanese-born and American-based artist to bridge cultural divides. This reflects a broader pattern in AAPI history, where individuals created transnational connections despite exclusion and racism. His work demonstrates how AAPI communities contributed not only to local culture, but also to global efforts toward reconciliation and peace.
 
 
