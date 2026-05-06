@@ -1,5 +1,5 @@
 ---
-title: "Chuzo Tamotzu, Postwar Hiroshima, & Santa Fe"
+title: "Chuzo Tamotzu and the Hiroshima–Santa Fe Exchange"
 author: Mariel León Lazcano
 layout: scrollstory
 header-image: images/drawing-1.jpg
