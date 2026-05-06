@@ -1,5 +1,5 @@
 ---
-title: "Tamotzu and the Hiroshima–Santa Fe Exchange: Art as Postwar Reconciliation"
+title: "Tamotzu and the Hiroshima-Santa Fe Exchange: Art as Postwar Reconciliation"
 author: Mariel León Lazcano
 layout: scrollstory
 header-image: images/drawing-1.jpg
