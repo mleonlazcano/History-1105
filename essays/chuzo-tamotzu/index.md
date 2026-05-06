@@ -52,7 +52,7 @@ The coding for this section positions this text in relation to the image. *The L
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/Concerns_Raton.jpg"
+  image-path="images/drawing-2.jpg"
   image-position="left"
   image-width="70%"
   caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
