@@ -69,18 +69,20 @@ The art exchange reveals that New Mexico was not isolated, but connected to glob
   image-path="images/tamotzu.jpg"
   image-position="center"
   image-width="70%"
-  caption="Chuzo Tamotzu (1888-1975) an important figure in the local Santa Fe art community and later organized the 1953 Hiroshima–Santa Fe art exchange. [Source: Bowdoing College Museum of Art] (January 10, 2017 - April 16, 2017)"
+  caption="Chuzo Tamotzu (1888-1975) an important figure in the local Santa Fe art community and later organized the 1953 Hiroshima–Santa Fe art exchange. [Source: Bowdoin College Museum of Art] (January 10, 2017 - April 16, 2017)"
   text=Chinese_leave_Raton_text 
 %}
 
 
 
-{% include typography/pullquote.html text="\"The most important thing about tamales isn't the recipe. It's the hands that made them. Whose recipe? Whose tradition? Whose labor? These are the questions that matter.\"" %}
+{% include typography/pullquote.html text="\"...it spoke to the overwhelming joy felt by Hiroshima at this offer of friendship and reconciliation...Chuzo Tamotzu’s enduring values of compassion and peaceful understanding among individuals and nations remain vividly apparent through the works of art he inspired and in the lives that he touched.\"" %}[^youchoose2] 
+
+[^youchoose2]: Bowdoin College Museum of Art, *Perspectives from Postwar Hiroshima Chuzo Tamotzu, Children's Drawings, and the Art of Resolution* (Buwdoin College Museum of Art: 2017).
 
 If you inserted a direct quote, you may complete the rest of your text for section 3 here. 
 
 ## Conclusion
 
-IThe Hiroshima-Santa Fe art exchange is historically significant because it shows how art can serve as a tool for healing, connection, and identity formation. Chuzo Tamotzu’s work demonstrates that AAPI individuals in New Mexico were active participants in shaping both local and global histories. This event teaches us that reconciliation is not only achieved through political agreements, but also through cultural and human connections.
+The Hiroshima-Santa Fe art exchange is historically significant because it shows how art can serve as a tool for healing, connection, and identity formation. Chuzo Tamotzu’s work demonstrates that AAPI individuals in New Mexico were active participants in shaping both local and global histories. This event teaches us that reconciliation is not only achieved through political agreements, but also through cultural and human connections.
 
 This project also raises further questions about how other AAPI communities in New Mexico contributed to the state’s history and how their stories have been remembered or overlooked. Future research could explore similar examples of cross-cultural exchange or examine how AAPI artists continue to shape New Mexico’s cultural landscape today.
