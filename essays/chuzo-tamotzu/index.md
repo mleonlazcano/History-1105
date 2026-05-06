@@ -55,7 +55,7 @@ The coding for this section positions this text in relation to the image. *The L
   image-path="images/drawing-2.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
+  caption="untitled (schoolchild's drawing from Hiroshima, Japan), 1953, crayon, pencil, watercolor, tempera, by Suzuko Tamagawa[Source: Bowdoin College Museum of Art] (1953)"
   text=Removal_Chinese_text 
 %}
 
