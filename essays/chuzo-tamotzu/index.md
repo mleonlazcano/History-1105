@@ -34,11 +34,11 @@ At a time when anti-Japanese sentiment was still strong in the United States, Ta
   caption="The TIME Magazine promotes the art exchange between kids in Santa Fe and Hiroshima. [Source: TIME Magazine, May 11, 1953]()"
 %}
 
-{% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
+{% include typography/pullquote.html text="\"...to bring about better understanding between the two cities.\""%}
 
-You may divide your text by inserting a pull from a primary or secondary source here that highlights why this event is newsworthy, as noted with the highlighted quote from the newspaper image. If you do not wish to break up your text with a direct quote you can delete the pull quote.[^youchoose2] 
+This TIME Magazine quote provides the goal of what this art exchange aimed to achieve, a connection between two cities, and furthermore, between two cultures.[^youchoose2] 
 
-[^youchoose2]:Another-author-first-name Another-author-last-name, *Title-in-italics* (Publisher:Year), page-number.
+[^youchoose2]: TIME Magazine, *Through the Eyes of Children* (TIME Inc.:1953), 78.
 
 ## Connection to AAPI History
 
