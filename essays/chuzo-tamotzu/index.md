@@ -48,14 +48,14 @@ By organizing the art exchange, Tamotzu used his position as both a Japanese-bor
 
 
 {% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
+*Bowdoin College Museum of Art* hosts an online exhibit containing selection of works by Japanese children and by Chuzo Tamotzu that showcase an art exchange between elementary school students in Santa Fe and Hiroshima in the early 1950s. His intention behind these pieces was said to be seeking "reconciliation between the country of his birth and that of his home... young people, raised in the wake of the devastating explosion of the atomic bomb, could heal political rifts by offering a fresh perspective on the world and thus help to establish lasting peace." (Bowdoin College Museum of Arts, 2017)
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/drawing-2.jpg"
   image-position="left"
   image-width="70%"
-  caption="untitled (schoolchild's drawing from Hiroshima, Japan), 1953, crayon, pencil, watercolor, tempera, by Suzuko Tamagawa[Source: Bowdoin College Museum of Art] (1953)"
+  caption="untitled (schoolchild's drawing from Hiroshima, Japan), 1953, crayon, pencil, watercolor, tempera, by Suzuko Tamagawan [Source: Bowdoin College Museum of Art] (1953)"
   text=Removal_Chinese_text 
 %}
 
