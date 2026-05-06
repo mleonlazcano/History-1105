@@ -1,5 +1,5 @@
 ---
-title: "Chuzo Tamotzu and the Hiroshima-Santa Fe Exchange"
+title: "Tamotzu and the Hiroshima–Santa Fe Exchange: Art as Postwar Reconciliation"
 author: Mariel León Lazcano
 layout: scrollstory
 header-image: images/drawing-1.jpg
@@ -7,7 +7,7 @@ thumbnail: images/Raton_1882.jpg
 summary: Viewing the relationship of art within Santa Fe and Postwar Hiroshima 
 ---
 
-# Chuzo Tamotzu and the Hiroshima-Santa Fe Exchange
+# Tamotzu and the Hiroshima–Santa Fe Exchange: Art as Postwar Reconciliation
 
 In 1953, Japanese American artist Chuzo Tamotzu organized an art exchange between schoolchildren in Hiroshima, Japan and Santa Fe, New Mexico. This event took place less than a decade after World War II, during a time of global tension and rebuilding. Tamotzu, who had lived in Japan and the United States and later settled in Santa Fe, used art as a way to connect communities affected by war. This project is significant because it shows how AAPI individuals in New Mexico were not isolated, but actively shaping global conversations about peace and identity. I argue that Tamotzu’s work demonstrates how AANHPI communities in New Mexico played an important role in postwar reconciliation, using cultural exchange to challenge division and create new forms of belonging.
 
