@@ -75,9 +75,9 @@ The art exchange reveals that New Mexico was not isolated, but connected to glob
 
 
 
-{% include typography/pullquote.html text="\"...it spoke to the overwhelming joy felt by Hiroshima at this offer of friendship and reconciliation...Chuzo Tamotzu’s enduring values of compassion and peaceful understanding among individuals and nations remain vividly apparent through the works of art he inspired and in the lives that he touched.\"" %}[^youchoose2] 
+{% include typography/pullquote.html text="\"...it spoke to the overwhelming joy felt by Hiroshima at this offer of friendship and reconciliation...Chuzo Tamotzu’s enduring values of compassion and peaceful understanding among individuals and nations remain vividly apparent through the works of art he inspired and in the lives that he touched.\"" %}[^youchoose3] 
 
-This quote illustrates how Tamotzu’s work fostered emotional and cultural healing, framing the art exchange as a meaningful step toward reconciliation between Japan and the United States. [^youchoose2]: Bowdoin College Museum of Art, *Perspectives from Postwar Hiroshima Chuzo Tamotzu, Children's Drawings, and the Art of Resolution* (Buwdoin College Museum of Art: 2017).
+This quote illustrates how Tamotzu’s work fostered emotional and cultural healing, framing the art exchange as a meaningful step toward reconciliation between Japan and the United States. [^youchoose3]: Bowdoin College Museum of Art, *Perspectives from Postwar Hiroshima Chuzo Tamotzu, Children's Drawings, and the Art of Resolution* (Buwdoin College Museum of Art: 2017).
 
 
 ## Conclusion
