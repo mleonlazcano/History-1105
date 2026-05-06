@@ -2,7 +2,7 @@
 title: "Chuzo Tamotzu, Postwar Hiroshima, & Santa Fe"
 author: Mariel León Lazcano
 layout: scrollstory
-header-image: images/Raton_1882.jpg
+header-image: images/drawing-1.jpg
 thumbnail: images/Raton_1882.jpg
 summary: Viewing the relationship of art within Santa Fe and Postwar Hiroshima 
 ---
