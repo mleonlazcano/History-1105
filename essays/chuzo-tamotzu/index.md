@@ -66,10 +66,10 @@ This event also highlights New Mexico’s role as a unique cultural and artistic
 The art exchange reveals that New Mexico was not isolated, but connected to global events and cultural movements. Santa Fe served as a site where international dialogue could take place, even in the aftermath of war. This challenges the idea of New Mexico as peripheral and instead positions it as a place where cross-cultural exchange and innovation occurred.
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/tamotzu.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="Chuzo Tamotzu (1888-1975) an important figure in the local Santa Fe art community and later organized the 1953 Hiroshima–Santa Fe art exchange. [Source: Bowdoing College Museum of Art] (January 10, 2017 - April 16, 2017)"
   text=Chinese_leave_Raton_text 
 %}
 
